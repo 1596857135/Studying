@@ -1,2 +1,3 @@
 # Studying
-just study
+just study!
+hello world--ubuntu
